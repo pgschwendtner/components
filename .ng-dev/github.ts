@@ -5,7 +5,7 @@ import {GithubConfig} from '@angular/dev-infra-private/ng-dev';
  * uses as remote for the merge script.
  */
 export const github: GithubConfig = {
-  owner: 'angular',
+  owner: 'RevokedIO',
   name: 'components',
   mainBranchName: 'main',
 };
